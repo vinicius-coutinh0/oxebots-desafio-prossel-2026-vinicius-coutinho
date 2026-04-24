@@ -1,0 +1,21 @@
+# Compilação
+build/
+out/
+bin/
+lib/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+/arial.ttf
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.swp
+*.user
+
+# SFML (se baixar direto no build)
+_deps/
